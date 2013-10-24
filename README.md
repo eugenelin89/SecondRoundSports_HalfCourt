@@ -2,6 +2,7 @@ The Half Court project is the first of the Second Round Sports (http://secondrou
 
 Emerged from Startup Weekend Vancouver and a honourable mention by BC Business Magazine, Second Round Sports is a gamification platform, in which game mechanics are applied to engage users in everyday activities. In the case for Second Round Sports, the activities are pick-up sports. It evolves from the concept of MMORPG (Massive Multiplayer Online Role Playing Games) in which players far apart interact with one another in a computer game via the Internet. We bring similar experience to real, physical pick-up sports, such as pick-up basketball. Players play their pick-up sports as usual in their favourite playground, and by doing so they are competing with players across the world. It, in effect, turns the sports that people play everyday into a large scale tournament. In addition, it adds computer game features such as leaderboards, which is a natural fit, to pick-up sports.
 
+Half Court is released under the MIT License.
 
 SETUP
 
