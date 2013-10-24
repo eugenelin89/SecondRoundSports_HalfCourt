@@ -4,6 +4,7 @@ Emerged from Startup Weekend Vancouver and a honourable mention by BC Business M
 
 
 SETUP
+
 The app was originally developed with XCode 4.3, for iOS6.  
 The backend uses service from Parse (https://www.parse.com/).
 In addition, Kiip(http://www.kiip.me/) was included to provide users with reward as they move up on the leaderboard.
@@ -12,4 +13,5 @@ Membership management uses Facebook SDK(https://developers.facebook.com/docs/ios
 Please follow instructions from Parse, Kiip, and Facebook to install required frameworks. 
 
 CONTACT
+
 info@secondroundsports.com
